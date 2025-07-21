@@ -56,3 +56,7 @@ Despues de que el administrador aceptaba una receta, se mostraba en el tablero d
 <p align="center">
   <img src="recetas_linea.jpg" alt="Inicio" width="500">
 </p>
+
+### ⚠️ Nota importante
+
+> Apesar de que se puede cargar con un servicio de apache en xampp o wampp (ademas de caragr la base de datos), el servicio no funcionara correctamente, ya que cuenta con una uri alojada en un Hosting al que ya no se tiene acceso

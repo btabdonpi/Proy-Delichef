@@ -20,3 +20,39 @@ Su objetivo principal es crear un espacio donde los usuarios puedan **subir sus 
 <p align="center">
   <img src="inicio.jpg" alt="Inicio" width="500">
 </p>
+
+## Login de la pagina
+
+<p align="center">
+  <img src="login.jpg" alt="Inicio" width="500">
+</p>
+
+## Lista de recetas
+Flujo alterno donde no hay recetas disponibles
+<p align="center">
+  <img src="lis_recetas.jpg" alt="Inicio" width="500">
+</p>
+
+## Insertar usuario
+Formulario para los nuevos usuarios
+<p align="center">
+  <img src="insert_usuario.jpg" alt="Inicio" width="500">
+</p>
+
+## Insertar receta
+Formulario para crear una receta, solo disponible para usuarios registrados
+<p align="center">
+  <img src="insert_receta.jpg" alt="Inicio" width="500">
+</p>
+
+## Recetas recibidas
+El adminstrador tenia que aceptar o denegar las recetas de usuarios
+<p align="center">
+  <img src="list_admin.jpg" alt="Inicio" width="500">
+</p>
+
+## Recetas en linea
+Despues de que el administrador aceptaba una receta, se mostraba en el tablero de recetas con estatus de aprobado
+<p align="center">
+  <img src="recetas_linea.jpg" alt="Inicio" width="500">
+</p>
